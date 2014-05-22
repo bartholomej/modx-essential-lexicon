@@ -44,7 +44,9 @@ $_lang['hot_news']    	= 'Hot news';
 $_lang['news']    	= 'News';
 
 $_lang['submit']	= 'Submit';
-$_lang['send']		= 'Odeslat';
+$_lang['send']		= 'Send';
+
+$_lang['search']        = 'Search';
 
 /* Calendar */
 $_lang['calendar']	= 'Calendar';

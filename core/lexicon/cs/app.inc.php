@@ -44,7 +44,9 @@ $_lang['hot_news']    	= 'Aktuality';
 $_lang['news']    	= 'Novinky';
 
 $_lang['submit']	= 'Potvrdit';
-$_lang['send']		= 'Send';
+$_lang['send']		= 'Odeslat';
+
+$_lang['search']        = 'Hledat';
 
 /* Calendar */
 $_lang['calendar']	= 'Kalendář';
