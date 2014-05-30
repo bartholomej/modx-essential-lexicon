@@ -9,7 +9,7 @@
  * @subpackage lexicon
  *
  * @author @LukasBartak (https://github.com/bartholomej/modx-essential-lexicon)
- * @updated 2014-05-19
+ * @updated 2014-05-30
  */
 
 $_lang['language'] 	= 'Čeština';
@@ -27,10 +27,12 @@ $_lang['view']     	= 'Zobrazit';
 $_lang['view_more']	= 'Zobrazit více';
 $_lang['show']     	= 'Ukázat';
 $_lang['show_more']	= 'Ukázat více';
+$_lang['result']  	= 'Výsledek';
 
 $_lang['add']		= 'Přidat';
 $_lang['remove'] 	= 'Ostranit';
 $_lang['delete']   	= 'Smazat';
+$_lang['move'] 		= 'Přesunout';
 
 $_lang['new']   	= 'Nové';
 $_lang['old']   	= 'Staré';
@@ -46,7 +48,17 @@ $_lang['news']    	= 'Novinky';
 $_lang['submit']	= 'Potvrdit';
 $_lang['send']		= 'Odeslat';
 
-$_lang['search']        = 'Hledat';
+$_lang['search']    = 'Hledat';
+$_lang['download']  = 'Stáhnout';
+$_lang['report']  	= 'Nahlásit';
+$_lang['mark']  	= 'Označit';
+$_lang['mark_all']  = 'Označit vše';
+
+$_lang['created_by']  = 'Vytvořil';
+$_lang['privacy']  	  = 'Soukromí';
+
+$_lang['question']    = 'Otázka';
+$_lang['answer']	  = 'Odpověď';
 
 /* Calendar */
 $_lang['calendar']	= 'Kalendář';
@@ -77,9 +89,13 @@ $_lang['saturday']  = 'Sobota';
 $_lang['sunday']    = 'Neděle';
 
 /* Accounts */
+$_lang['account']		= 'Účet';
+$_lang['personal_info']	= 'Osobní informace';
+$_lang['full_name']		= 'Celé jméno';
 $_lang['first_name']	= 'Jméno';
 $_lang['last_name']		= 'Příjmení';
 $_lang['nickname']		= 'Nickname';
+$_lang['company']		= 'Společnost';
 $_lang['age']			= 'Věk';
 $_lang['date_of_birth']	= 'Datum narození';
 

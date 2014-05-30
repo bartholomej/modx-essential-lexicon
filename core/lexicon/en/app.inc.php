@@ -9,7 +9,7 @@
  * @subpackage lexicon
  *
  * @author @LukasBartak (https://github.com/bartholomej/modx-essential-lexicon)
- * @updated 2014-05-19
+ * @updated 2014-05-30
  */
 
 $_lang['language']   = 'English';
@@ -27,10 +27,12 @@ $_lang['view']       = 'View';
 $_lang['view_more']  = 'View more';
 $_lang['show']       = 'Show';
 $_lang['show_more']  = 'Show more';
+$_lang['result']  	 = 'Result';
 
 $_lang['add']    	= 'Add';
 $_lang['remove'] 	= 'Remove';
 $_lang['delete']   	= 'Delete';
+$_lang['move'] 		= 'Move';
 
 $_lang['new']   	= 'New';
 $_lang['old']   	= 'Old';
@@ -46,7 +48,17 @@ $_lang['news']    	= 'News';
 $_lang['submit']	= 'Submit';
 $_lang['send']		= 'Send';
 
-$_lang['search']        = 'Search';
+$_lang['search']    = 'Search';
+$_lang['download']  = 'Download';
+$_lang['report']  	= 'Report';
+$_lang['mark']  	= 'Mark';
+$_lang['mark_all']  = 'Mark all';
+
+$_lang['created_by']  = 'Created by';
+$_lang['privacy']  	  = 'Privacy';
+
+$_lang['question']    = 'Question';
+$_lang['answer']	  = 'Answer';
 
 /* Calendar */
 $_lang['calendar']	= 'Calendar';
@@ -77,9 +89,13 @@ $_lang['saturday']  = 'Saturday';
 $_lang['sunday']    = 'Sunday';
 
 /* Accounts */
+$_lang['account']		= 'Account';
+$_lang['personal_info']	= 'Personal info';
+$_lang['full_name']		= 'Full name';
 $_lang['first_name']	= 'First Name';
 $_lang['last_name']		= 'Last name';
 $_lang['nickname']		= 'Nickname';
+$_lang['company']		= 'Company';
 $_lang['age']			= 'Age';
 $_lang['date_of_birth']	= 'Date of birth';
 
