@@ -1,7 +1,7 @@
-# MODx Essential Custom Lexicon
-Tiny custom lexicon for MODx Revolution includes essential words and phrases .) (alpha)
+# LexiconX for MODX
+Tiny custom lexicon for MODX Revolution includes essential words and phrases .)
 
-Lexicon includes:
+**Lexicon includes:**
 * Essential phrases (eg. More Info, View more, Hot news, ...)
 * Days of the week
 * Months
@@ -9,13 +9,11 @@ Lexicon includes:
 * ...
 
 ## Installation
-Just download the source code from GitHub and copy to your MODx folder.
-
-	path-to-your-modx-installation/core/lexicon/*
+Just install latest package located here in `_packages` directory
 
 ## Documentation
 ### Usage example
-	[[%learn_more? &language=`[[++cultureKey]]` &namespace=`core` &topic=`app`]]
+	[[%learn_more? &language=`[[++cultureKey]]` &namespace=`lexiconx` &topic=`default`]]
 
 #### Language variable examples
 * **Placeholder:** ```[[++cultureKey]]``` (easy to use with Babel addon)
@@ -23,8 +21,8 @@ Just download the source code from GitHub and copy to your MODx folder.
 
 ### Customizing strings in manager
 * **Step 1:** Login to your MODx Manager
-* **Step 2:** Go to System -> Lexicon
-* **Step 3:** Switch topic to **app**
+* **Step 2:** Go to **Settings** -> **Lexicons**
+* **Step 3:** Switch namespace to **lexiconx**
 
 _Notice: In MODX Revolution, however, the strings are still in the files, but if you change the strings properly, the new version is stored in the MODX database, where it will survive any upgrades. [Bobs's Guide](http://bobsguides.com/blog.html/2013/05/22/customizing-lexicon-strings-in-modx-revolution/)_
 
