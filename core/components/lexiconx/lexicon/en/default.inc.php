@@ -2,8 +2,8 @@
 /**
  * MODx Essential Custom Lexicon
  *
- * Located: /core/lexicon/en/
- * 
+ * Located: /lexiconx/lexicon/en/
+ *
  * @language en
  * @package modx
  * @subpackage lexicon

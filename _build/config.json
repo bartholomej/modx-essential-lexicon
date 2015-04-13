@@ -1,0 +1,14 @@
+{
+    "name": "LexiconX",
+    "lowCaseName": "lexiconx",
+    "description": "Tiny custom lexicon for MODx Revolution includes essential words and phrases",
+    "author": "Bartholomej",
+    "version": "1.0.0",
+    "package":{
+        "actions": [{
+            "id": 1,
+            "controller": "index",
+            "hasLayout": 0
+        }]
+    }    
+}
